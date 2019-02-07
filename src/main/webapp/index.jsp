@@ -190,7 +190,7 @@
               <div class="card mb-4 box-shadow">
                 <img class="card-img-top" src="thumbnail.svg" alt="Card image cap">
                 <div class="card-body">
-                  <p class="card-text">Validated & Certified by rajesh</p>
+                  <p class="card-text">Validated & Certified by rajesh sarda</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
                       <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
